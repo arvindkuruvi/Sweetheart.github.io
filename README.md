@@ -1,3 +1,3 @@
 # Sweetheart.github.io
 
-A simple valentine heart page hakrfgjk
+A simple valentine heart page
